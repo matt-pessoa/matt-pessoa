@@ -1,5 +1,7 @@
 # Olá, mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, artista nas horas vagas, apaixonado por idiomas :uk::fr::it: e sempre em busca de uma nova aventura. Estou muito feliz de te ver no meu perfil, fique à vontade e não hesite em entrar em contato!
+
 <!--
 **matt-pessoa/matt-pessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
