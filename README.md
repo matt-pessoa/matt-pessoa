@@ -5,8 +5,8 @@ Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, art
 
  <div>
   <a href="https://github.com/matt-pessoa">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=matt-pessoa&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=matt-pessoa&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact"/>
   
   ##
  
