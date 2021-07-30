@@ -4,8 +4,9 @@
 # I'm Matheus Pessoa 👨‍💻
 
 #### Welcome to my profile! How you doin'? 🤝
-- 📚 I’m currently learning the fundamentals of web development
-- ⚡ Fun fact: I can speak Portuguese, English, French and Italian!
+- 💻 Learning to code;
+- 🗺️ I can speak Portuguese, English, French and Italian;
+- 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
 
 <p align="left">
   <img height="152em"
