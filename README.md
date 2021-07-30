@@ -7,15 +7,13 @@
 - 📚 I’m currently learning the fundamentals of web development
 - ⚡ Fun fact: I can speak Portuguese, English, French and Italian!
 
-<!--  <div>
-  <a href="https://github.com/matt-pessoa">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=matt-pessoa&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact"/>
-  
-  ##
- 
-<div> 
- <a href = "mailto: matheuspessoafonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/matt-pessoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
- -->
+<p align="left">
+  <img height="152em"
+       src="https://github-readme-stats.vercel.app/api?username=matt-pessoa&show_icons=true"
+       alt="Matheus Pessoa" 
+       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
+  <img height="152em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&langs_count=5" 
+       alt="Matheus Pessoa"
+       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
+</p>
