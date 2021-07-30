@@ -4,8 +4,7 @@
 # I'm Matheus Pessoa 👨‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omatheuspessoa?label=Follow)](https://twitter.com/intent/follow?screen_name=omatheuspessoa)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-pessoa/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/matt-pessoalabel=Follow&style=social)
+[![Linkedin: anmol](https://img.shields.io/badge/-matt-pessoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-pessoa/)](https://www.linkedin.com/in/matt-pessoa/)
 
 Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, artista nas horas vagas, apaixonado por idiomas 🇬🇧 🇫🇷 🇮🇹 e sempre em busca de uma nova aventura. Estou muito feliz de te ver no meu perfil, fique à vontade e não hesite em entrar em contato!
 
