@@ -3,11 +3,11 @@
 ### hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I'm Matheus Pessoa 👨‍💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/omatheuspessoa?label=Follow)](https://twitter.com/intent/follow?screen_name=omatheuspessoa)
-[![Linkedin: anmol](https://img.shields.io/badge/-matt-pessoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-pessoa/)](https://www.linkedin.com/in/matt-pessoa/)
-
-Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, artista nas horas vagas, apaixonado por idiomas 🇬🇧 🇫🇷 🇮🇹 e sempre em busca de uma nova aventura. Estou muito feliz de te ver no meu perfil, fique à vontade e não hesite em entrar em contato!
-
+#### How you doin'?
+- 📚 I’m currently learning the fundamentals of web development
+- 💬 Ask me about my favorite drink!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can speak Portuguese, English, French and Italian!
 
 <!--  <div>
   <a href="https://github.com/matt-pessoa">
