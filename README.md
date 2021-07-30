@@ -3,7 +3,9 @@
 ### hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I'm Matheus Pessoa 👨‍💻
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=matt-pessoa" alt="Matheus Pessoa" /> </span>
+[![Twitter Follow](https://img.shields.io/twitter/follow/omatheuspessoa?label=Follow)](https://twitter.com/intent/follow?screen_name=omatheuspessoa)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-pessoa/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/matt-pessoalabel=Follow&style=social)
 
 Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, artista nas horas vagas, apaixonado por idiomas 🇬🇧 🇫🇷 🇮🇹 e sempre em busca de uma nova aventura. Estou muito feliz de te ver no meu perfil, fique à vontade e não hesite em entrar em contato!
 
