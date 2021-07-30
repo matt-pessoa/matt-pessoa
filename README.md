@@ -1,6 +1,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
+
 ### hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I'm Matheus Pessoa 👨‍💻
+
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=matt-pessoa" alt="Matheus Pessoa" /> </span>
 
 Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, artista nas horas vagas, apaixonado por idiomas 🇬🇧 🇫🇷 🇮🇹 e sempre em busca de uma nova aventura. Estou muito feliz de te ver no meu perfil, fique à vontade e não hesite em entrar em contato!
 
