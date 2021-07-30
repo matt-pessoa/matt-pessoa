@@ -3,9 +3,14 @@
 Boas vindas ao meu perfil! Sou um estudante de desenvolvimento web na Trybe, artista nas horas vagas, apaixonado por idiomas 🇬🇧 🇫🇷 🇮🇹 e sempre em busca de uma nova aventura. Estou muito feliz de te ver no meu perfil, fique à vontade e não hesite em entrar em contato!
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" rel=noopener>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+ <div>
+  <a href="https://github.com/matt-pessoa">
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=matt-pessoa&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
+  
+  ##
+ 
+<div> 
+ <a href = "mailto: matheuspessoafonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/matt-pessoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
