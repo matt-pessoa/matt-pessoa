@@ -3,10 +3,8 @@
 ### hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I'm Matheus Pessoa 👨‍💻
 
-#### How you doin'?
+#### Welcome to my profile! How you doin'? 🤝
 - 📚 I’m currently learning the fundamentals of web development
-- 💬 Ask me about my favorite drink!
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can speak Portuguese, English, French and Italian!
 
 <!--  <div>
