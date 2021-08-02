@@ -7,6 +7,7 @@
 - 💻 Learning how to code;
 - 🗺️ I can speak Portuguese, English, French and Italian;
 - 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
+- 🎹 Let's jam!
 
 <p align="left">
   <img height="152em"
