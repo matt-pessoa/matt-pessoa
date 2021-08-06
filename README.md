@@ -15,7 +15,7 @@
        alt="Matheus Pessoa" 
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
   <img height="152em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&langs_count=5" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-pessoa&layout=compact" 
        alt="Matheus Pessoa"
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
 </p>
