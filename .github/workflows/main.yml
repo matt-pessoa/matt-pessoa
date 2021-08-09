@@ -1,4 +1,5 @@
 name: generate animation
+
 on:
   # run automatically every 6 hours
   schedule:
@@ -8,7 +9,8 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
+    
 jobs:
   generate:
     runs-on: ubuntu-latest
