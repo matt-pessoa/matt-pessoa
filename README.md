@@ -4,7 +4,6 @@
 # I'm <a href = "https://matt-pessoa.github.io/" target="_blank"> Matheus Pessoa</a> 👨‍💻
 
 #### Welcome to my profile! How you doin'? 🤝
-- 🇧🇷 Belo Horizonte, MG
 - 💻 Front-end <em>afficionado</em>;
 - 🗺️ I can speak Portuguese, English, French and Italian;
 - 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
