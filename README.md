@@ -1,7 +1,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/matt-pessoa/matt-pessoa/output/github-contribution-grid-snake.svg)
 
 ### hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# I'm <a href = "https://matt-pessoa.github.io/" target="_blank"> Matheus Pessoa</a> 👨‍💻
+# I'm <a href = "https://matt-pessoa.github.io/" target="_blank"> Matt Pessoa</a> 👨‍💻
 
 #### Welcome to my profile! How you doin'? 🤝
 - 💻 Front-end <em>afficionado</em>;
