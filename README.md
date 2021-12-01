@@ -6,8 +6,9 @@
 #### Welcome to my profile! How you doin'? 🤝
 - 💻 Front-end <em>afficionado</em>;
 - 🗺️ I can speak Portuguese, English, French and Italian;
+- 📗 Currently studying React;
+- 📭 You can reach me by my email: omatheuspessoa@gmail.com
 - 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
-- 🎹 Let's jam!
 
 <p align="left">
   <img height="152em"
