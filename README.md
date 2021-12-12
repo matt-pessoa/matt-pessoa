@@ -7,7 +7,7 @@
 - 💻 Front-end <em>afficionado</em>;
 - 🗺️ I can speak Portuguese, English, French and Italian;
 - 📗 Currently studying React;
-- 📭 You can reach me by my email: matheuspessoafonseca@gmail.com;
+- 📭 You can contact me by email: matheuspessoafonseca@gmail.com;
 - 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
 
 <p align="left">
