@@ -4,9 +4,9 @@
 # I'm <a href = "https://matt-pessoa.github.io/" target="_blank"> Matt Pessoa</a> 👨‍💻
 
 #### Welcome to my profile! How you doin'? 🤝
+- 📜 Majoring in Software Engineering;
 - 💻 Front-end <em>afficionado</em>;
 - 🗺️ I can speak Portuguese, English, French and Italian;
-- 📗 Currently studying React;
 - 📭 You can contact me by email: matheuspessoafonseca@gmail.com;
 - 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
 
