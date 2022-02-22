@@ -4,7 +4,7 @@
 # I'm <a href = "https://matt-pessoa.github.io/" target="_blank"> Matt Pessoa</a> 👨‍💻
 
 #### Welcome to my profile! How you doin'? 🤝
-- 📜 Majoring in Software Engineering;
+- 📜 Majoring in Software Engineering - PUC Minas;
 - 💻 Front-end <em>afficionado</em>;
 - 🗺️ I can speak Portuguese, English, French and Italian;
 - 📭 You can contact me by email: matheuspessoafonseca@gmail.com;
