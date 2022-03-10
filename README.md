@@ -5,7 +5,6 @@
 
 #### Welcome to my profile! How you doin'? 🤝
 - 📜 Majoring in Software Engineering - PUC Minas;
-- 💻 Front-end <em>afficionado</em>;
 - 🗺️ I can speak Portuguese, English, French and Italian;
 - 📭 You can contact me by email: matheuspessoafonseca@gmail.com;
 - 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
