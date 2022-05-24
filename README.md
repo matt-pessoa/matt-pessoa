@@ -7,8 +7,8 @@
 - 📜 Majoring in Software Engineering - PUC Minas;
 - 🗺️ I can speak Portuguese, English, French and Italian;
 - 📭 You can contact me by email: matheuspessoafonseca@gmail.com;
-- 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
 - 🗃️ LinkedIn: https://www.linkedin.com/in/matt-pessoa/
+- 🎨 Art is my passion ([check out my artworks](https://instagram.com/mattabacate));
 
 <p align="left">
   <img height="152em"
